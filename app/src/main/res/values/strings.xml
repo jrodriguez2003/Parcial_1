@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Grupo7_Parcial</string>
+    <string name="txt_Partidos_Jugados">Partidos Bucaramanga</string>
+    <string name="txt_Detalle_Partido">Detalle Partidos</string>
+</resources>
